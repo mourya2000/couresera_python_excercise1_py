@@ -1,1 +1,1 @@
-# couresera_python_excercise1_py
+# couresera_python_exercise1_py
